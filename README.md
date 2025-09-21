@@ -1,4 +1,4 @@
-# CEnTRInnovations
+<img width="12122" height="2090" alt="centr-title" src="https://github.com/user-attachments/assets/6e8c7016-317d-4dce-9133-7b5d8b852b90" />
 
 ## Smart Technology. Deeper Insights. Empowered Communities.
 
@@ -14,37 +14,22 @@ We are passionate innovators, researchers, and technologists dedicated to buildi
 
 Whether you're a university research office, community-based nonprofit, foundation program officer, or grassroots organization, we offer services to help you build research partnerships that are truly reciprocal, ethical, and impactful.
 
-### 🤝 Consultations and Workshops
+### Consultations and Workshops
 Develop community-centered research strategies aligned with your mission and values.
 
-### 🗺️ Strategic Planning
+### Strategic Planning
 Design long-term community engagement frameworks and implementation roadmaps.
 
-### 💻 Digital Tools & Technology Solutions
+### Digital Tools & Technology Solutions
 - Custom technology solutions for data gathering, analysis, and visualization
 - Interactive mapping platforms to visualize community data and feedback in real-time
 - Collaborative research tools to facilitate shared data collection among stakeholders
 - Reporting dashboards to instantly see and share project impact
 
-### 📊 Data Insights & Analysis
-Transform complex data into clear, actionable insights that drive results.
-
-## Our Philosophy
-
-We specialize in harnessing the power of **community intelligence** through comprehensive solutions for community engagement, research, and data analysis. Each tool and service we develop focuses on user experience, ensuring accessibility and intuitiveness for everyone.
-
-Our approach is rooted in:
-- **Ethical and equitable practices**
-- **Human-centered design**
-- **Collaborative partnerships**
-- **Community-driven insights**
-- **Transformative outcomes**
+### Data Insights & Analysis
+Transform complex data into clear, actionable insights that provide understanding.
 
 ## Connect With Us
 
 - 🌐 **Website**: [www.centrinnovations.com](https://www.centrinnovations.com)
 - 📧 **Partner With Us**: Ready to build meaningful community research partnerships
-
----
-
-*Building authentic, equitable research relationships that create meaningful change.*
